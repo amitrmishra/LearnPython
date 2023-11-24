@@ -1,0 +1,9 @@
+openai
+langchain
+pinecone-client
+python-dotenv
+tiktoken
+azure-cognitiveservices-search-websearch
+--index-url https://pypi.spotify.net/simple
+styx-secrets==2.1.0
+google-cloud-bigquery

@@ -1,0 +1,6 @@
+.idea
+.pytest_cache
+LearnPython.iml
+gpt/gpt_secrets.py
+.hypothesis
+__pycache__
